@@ -6,4 +6,4 @@ PANDAS
    3. Data Info
 
 USEFUL LINKS
-1. [Cheat Sheet Pandas].('https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf')
+1. [Cheat Sheet Pandas].(https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
