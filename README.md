@@ -2,6 +2,11 @@
 PANDAS
 1. Data Frames (fake) from Contoso company
    1. Read CSV
+      1. Products
+      2. Customers
+      3. Stores
+      4. Promotions
+      5. Sales
    2. Separator
    3. Data Info
    4. Drop
