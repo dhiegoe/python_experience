@@ -16,6 +16,24 @@ PANDAS
 2. Which customer buy more often?
    1. Value Counts
    2. Plot using Matplotlib
+3. Which store sold the most?
+   1. Group By + Sum
+   2. Sort
+   3. Max
+   4. Index Max
+4. Which store lower sold?
+   1. Last list row or item
+   2. Min
+   4. Index Min
+5. Which % of sales has been returned?
+   1. Sum
+   2. Calculate Percentage
+6. Which % of sales has been returned for Store 'Loja Contoso Europe Online'?
+   1. Filter
+   2. Sum
+   3. Calculate Percentage
+7. A table with sales of Store 'Loja Contoso Europe Online' without returned
+   1. Filter (2 columns)
 
 USEFUL LINKS
 1. [Cheat Sheet Pandas](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
