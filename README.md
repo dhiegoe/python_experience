@@ -43,6 +43,8 @@ PANDAS
    5. Iloc
    6. Modify a value
 
+PANDAS PROJECT 1
+
 USEFUL LINKS
 1. [Cheat Sheet Pandas](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 2. [pandas.DataFrame.plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
