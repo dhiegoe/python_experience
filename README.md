@@ -11,6 +11,7 @@ PROFESSIONAL EXPERIENCE
       - SQL Server - Azure Data Lake
 3. Selenium
 4. Two-factor Authentication
+5. MS Power BI integration by Script
 
 # python_study
 
