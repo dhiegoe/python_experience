@@ -1,4 +1,19 @@
+# python_professional
+
+PROFESSIONAL EXPERIENCE
+1. Pandas
+2. Excel Libraries
+   1. Openpyxl
+   2. Xlsxwriter
+2. Python OBDC
+   1. SQL
+      - IBM DB2
+      - SQL Server - Azure Data Lake
+3. Selenium
+4. Two-factor Authentication
+
 # python_study
+
 PANDAS
 1. Data Frames (fake) from Contoso company
    1. Read CSV
