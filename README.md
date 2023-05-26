@@ -1,4 +1,4 @@
-# python_impressionador
+# python_study
 PANDAS
 1. Data Frames (fake) from Contoso company
    1. Read CSV
