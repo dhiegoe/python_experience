@@ -9,7 +9,9 @@ PROFESSIONAL EXPERIENCE
    1. SQL
       - IBM DB2
       - SQL Server - Azure Data Lake
-3. Selenium
+3. Web Scraping
+   1. Selenium
+   2. PyTutoGUI
 4. Two-factor Authentication
 5. MS Power BI integration by Script
 
